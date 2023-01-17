@@ -1,0 +1,6 @@
+#gallery-container{
+    grid-template-columns: repeat(2, 1fr);
+}
+.gallery-image{
+    width: 90%;
+}
